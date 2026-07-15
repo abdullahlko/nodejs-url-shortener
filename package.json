@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/abdullahlko/nodejs-url-shortener/issues"
   },
-  "homepage": "https://github.com/abdullahlko/nodejs-url-shortener#readme"
+  "homepage": "https://github.com/abdullahlko/nodejs-url-shortener#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
